@@ -99,7 +99,10 @@ export default defineGkdApp({
       rules: [
         {
           fastQuery: true,
-          matches: ['@[text="取消"] + [text="立即开启"]'],
+          matches: [
+            '@[text="取消"] + [text="立即开启"]',
+            '[text="立即开启自动清理 >"] <<(n) * >(n) [text="取消"]',
+          ],
           snapshotUrls: 'https://i.gkd.li/i/21884571',
         },
       ],
