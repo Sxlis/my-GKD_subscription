@@ -38,10 +38,10 @@
 
 复制以下任意一个链接到 GKD 即可使用本订阅规则
 
-- npmmirror源（国内镜像，推荐大陆用户使用）
+- fatly源（国内镜像，推荐大陆用户使用）
 
 ```txt
-https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIsouler_gkd.json5
+https://fastly.jsdelivr.net/gh/Sxlis/my-GKD_subscription@main/dist/AIsouler_gkd.json5
 ```
 
 - GitHub源
@@ -50,7 +50,7 @@ https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIso
 https://raw.githubusercontent.com/Sxlis/my-GKD_subscription/main/dist/AIsouler_gkd.json5
 ```
 
-- 当前版本: v409
+- 当前版本: v410
 
 - 当前订阅文件已适配 888 个应用，共有 2078 应用规则组，3 全局规则组
 
@@ -78,7 +78,7 @@ https://raw.githubusercontent.com/Sxlis/my-GKD_subscription/main/dist/AIsouler_g
 
 ## 感谢以下开发者的贡献
 
-![img](https://contrib.rocks/image?repo=AIsouler/GKD_subscription&_v=409)
+![img](https://contrib.rocks/image?repo=AIsouler/GKD_subscription&_v=410)
 
 ## Star History
 
