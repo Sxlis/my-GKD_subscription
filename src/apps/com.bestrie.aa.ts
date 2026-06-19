@@ -7,7 +7,7 @@ export default defineGkdApp({
     {
       key: 0,
       name: '全屏广告-首页弹窗广告',
-      desc: '关闭首页右上角广告弹窗',
+      desc: '关闭首页会员充值广告',
       matchTime: 10000,
       actionMaximum: 1,
       resetMatch: 'app',
