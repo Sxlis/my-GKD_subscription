@@ -50,7 +50,7 @@ https://fastly.jsdelivr.net/gh/Sxlis/my-GKD_subscription@main/dist/AIsouler_gkd.
 https://raw.githubusercontent.com/Sxlis/my-GKD_subscription/main/dist/AIsouler_gkd.json5
 ```
 
-- 当前版本: v411
+- 当前版本: v412
 
 - 当前订阅文件已适配 888 个应用，共有 2080 应用规则组，3 全局规则组
 
@@ -78,7 +78,7 @@ https://raw.githubusercontent.com/Sxlis/my-GKD_subscription/main/dist/AIsouler_g
 
 ## 感谢以下开发者的贡献
 
-![img](https://contrib.rocks/image?repo=AIsouler/GKD_subscription&_v=411)
+![img](https://contrib.rocks/image?repo=AIsouler/GKD_subscription&_v=412)
 
 ## Star History
 
