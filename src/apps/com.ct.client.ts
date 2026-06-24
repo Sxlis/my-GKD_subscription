@@ -193,5 +193,23 @@ export default defineGkdApp({
         },
       ],
     },
+    {
+      key: 9,
+      name: '权限提示-流量通知',
+      desc: '点击-暂不',
+      fastQuery: true,
+      actionMaximum: 1,
+      resetMatch: 'app',
+      rules: [
+        {
+          key: 0,
+          name: '流量通知',
+          fastQuery: true,
+          activityIds: '.selfservice5.activity.MealAllowanceActivityBlue',
+          matches: '[text="开启推送通知"] +n * > [text="暂不"]',
+          snapshotUrls: 'https://i.gkd.li/i/29296647',
+        },
+      ],
+    },
   ],
 });
