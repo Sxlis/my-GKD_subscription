@@ -19,5 +19,19 @@ export default defineGkdApp({
         },
       ],
     },
+    {
+      key: 5,
+      name: '通知提示-开启消息通知',
+      fastQuery: true,
+      desc: '点击关闭',
+      rules: [
+        {
+          fastQuery: true,
+          activityIds: '.modules.home.ui.HomeActivity',
+          matches: '@[vid="ivClose"] +n [text="开启消息通知"]',
+          snapshotUrls: 'https://i.gkd.li/i/29338046',
+        },
+      ],
+    },
   ],
 });
