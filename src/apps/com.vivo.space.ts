@@ -53,7 +53,7 @@ export default defineGkdApp({
       rules: [
         {
           activityIds: '.ui.VivoSpaceTabActivity',
-          matches: 'Button[id="com.vivo.space:id/vbutton_title"][text="取消"]',
+          matches: '[text^="开启消息通知"] <<n * >n [text="取消"]',
           snapshotUrls: 'https://i.gkd.li/i/13771581',
         },
       ],
