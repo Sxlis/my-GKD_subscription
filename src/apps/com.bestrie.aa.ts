@@ -9,7 +9,7 @@ export default defineGkdApp({
       name: '全屏广告-首页弹窗广告',
       desc: '关闭首页会员充值广告',
       matchTime: 10000,
-      forcedTime:10000,
+      forcedTime: 10000,
       actionMaximum: 1,
       resetMatch: 'app',
       rules: [
