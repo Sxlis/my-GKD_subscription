@@ -38,7 +38,7 @@
 
 复制以下任意一个链接到 GKD 即可使用本订阅规则
 
-- fatly源（国内镜像，推荐大陆用户使用）
+- jsdelivr源（国内镜像，推荐大陆用户使用）
 
 ```txt
 https://fastly.jsdelivr.net/gh/Sxlis/GKD_subscription@main/dist/AIsouler_gkd.json5
@@ -50,7 +50,7 @@ https://fastly.jsdelivr.net/gh/Sxlis/GKD_subscription@main/dist/AIsouler_gkd.jso
 https://raw.githubusercontent.com/Sxlis/GKD_subscription/main/dist/AIsouler_gkd.json5
 ```
 
-- 当前版本: v415
+- 当前版本: v416
 
 - 当前订阅文件已适配 888 个应用，共有 2082 应用规则组，3 全局规则组
 
@@ -78,7 +78,7 @@ https://raw.githubusercontent.com/Sxlis/GKD_subscription/main/dist/AIsouler_gkd.
 
 ## 感谢以下开发者的贡献
 
-![img](https://contrib.rocks/image?repo=AIsouler/GKD_subscription&_v=415)
+![img](https://contrib.rocks/image?repo=AIsouler/GKD_subscription&_v=416)
 
 ## Star History
 
