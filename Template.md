@@ -41,13 +41,13 @@
 - fatly源（国内镜像，推荐大陆用户使用）
 
 ```txt
-https://fastly.jsdelivr.net/gh/Sxlis/my-GKD_subscription@main/dist/AIsouler_gkd.json5
+https://fastly.jsdelivr.net/gh/Sxlis/GKD_subscription@main/dist/AIsouler_gkd.json5
 ```
 
 - GitHub源
 
 ```txt
-https://raw.githubusercontent.com/Sxlis/my-GKD_subscription/main/dist/AIsouler_gkd.json5
+https://raw.githubusercontent.com/Sxlis/GKD_subscription/main/dist/AIsouler_gkd.json5
 ```
 
 - 当前版本: v--VERSION--
