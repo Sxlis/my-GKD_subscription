@@ -106,7 +106,6 @@ export default defineGkdApp({
         },
         {
           key: 1,
-          fastQuery: true,
           activityIds: 'com.ct.client.activity.MainActivity',
           matches: '[id="com.ct.client:id/ivClose"]',
           snapshotUrls: 'https://i.gkd.li/i/29297535',
